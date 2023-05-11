@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jobSearchTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.043">
+  <properties />
+  
+  
+            <testcase name="anAustralianComingToUKForTourism" time="4.889" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="1.807" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+                <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="2.347" classname="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      
+</testsuite>
